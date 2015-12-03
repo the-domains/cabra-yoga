@@ -1,0 +1,29 @@
+name: Cabra Yoga
+favicon: null
+layout_spectrum: 0.7514286944642663
+typography_spectrum: 0.7901266170665622
+title: Cabra Yoga
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9874205533415079
+  lightness: 0.19061617413535714
+  saturation: 0.34288370492868125
+  rhythmicContrast: 0.5039381950628012
+purpose: []
