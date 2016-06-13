@@ -1,7 +1,8 @@
 name: Cabra Yoga
 favicon: null
-layout_spectrum: 0.7514286944642663
-typography_spectrum: 0.7901266170665622
+layout_spectrum: 1
+typography_spectrum: 0.17214
+title: Sol alarm clock
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#ffffff'
+    - '#505050'
+    - '#c0c0c0'
+    - '#272727'
   brandStrength: 0.9874205533415079
-  lightness: 0.19061617413535714
-  saturation: 0.34288370492868125
-  rhythmicContrast: 0.5039381950628012
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0
 purpose: []
